@@ -14,7 +14,7 @@ This program checks whether a number is even or odd using if-else statements.
 
 ## Output
 
-The number 5 is odd.
-The number 10 is even.
-The number 7 is odd.
-The number 12 is even.
+* The number 5 is odd.
+* The number 10 is even.
+* The number 7 is odd.
+* The number 12 is even.
